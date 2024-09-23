@@ -48,7 +48,7 @@ pre-commit = "^3.8.0"
 inline-snapshot = "^0.12.1"
 langchain-groq = "^0.1.9"
 # Optional dependencies
-huggingface-hub = "^0.23.2"
+huggingface-hub = ">=0.23.2,<0.26.0"
 # garak = "*"
 
 [tool.ruff]
